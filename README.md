@@ -1,7 +1,7 @@
 # Exercise-9-Keyboard-Automation---Simulate-Keystrokes
 ~~~
-Name : M.JohnPall  
-Reg.No : 212224040140  
+Name : Kavi M S
+Reg.No : 212223220044
 ~~~
 
 ## Aim
